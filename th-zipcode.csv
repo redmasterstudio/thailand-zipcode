@@ -46,7 +46,7 @@ zipcode,area,city
 10130,Phra Pradaeng,Samut Prakan
 10270,Muang Samut Prakan,Samut Prakan
 10290,Phra Samut Chedi,Samut Prakan
-10540,Bang Saotong,Samut Prakan
+10570,Bang Saotong,Samut Prakan
 10540,Bang Phli,Samut Prakan
 10560,Bang Bo,Samut Prakan
 11000,Muang Nonthaburi,Nonthaburi
@@ -104,7 +104,7 @@ zipcode,area,city
 23000,Ko Kud,Trat
 23110,Khlong Yai,Trat
 23120,Laem Ngob,Trat
-23120,Ko Chang,Trat
+23170,Ko Chang,Trat
 23130,Khao Saming,Trat
 23140,Bo Rai,Trat
 24000,Muang Chachoengsao,Chachoengsao
@@ -163,6 +163,23 @@ zipcode,area,city
 30410,Nong Bunnak,Nakhon Ratchasima
 30430,Sida,Nakhon Ratchasima
 30440,Kang Sanam Nang,Nakhon Ratchasima
+32000,Mueang Surin,Surin
+32000,Khwao Sinrin,Surin
+32110,Sikhoraphum,Surin
+32120,Tha Tum,Surin
+32130,Non Narai,Surin
+32130,Rattanaburi,Surin
+32140,Prasat,Surin
+32140,Phanom Dong Rak,Surin
+32150,Si Narong,Surin
+32150,Sangkha,Surin
+32160,Sanom,Surin
+32170,Samrong Thap,Surin
+32180,Chom Phra,Surin
+32190,Chumphon Buri,Surin
+32210,Kap Choeng,Surin
+32220,Lamduan,Surin
+32230,Buachet,Surin
 34000,Muang Ubon Ratchathani,Ubon Ratchathani
 34000,Don Moddang,Ubon Ratchathani
 34140,Muang Samsib,Ubon Ratchathani
@@ -205,6 +222,14 @@ zipcode,area,city
 37210,Chanunman,Amnat Charoen
 37240,Hua Taphan,Amnat Charoen
 37290,Senangkhanikhorn,Amnat Charoen
+38000,Mueang Bueng Kan,Bueng Kan
+38000,Bung Khla,Bueng Kan
+38150,Seka,Bueng Kan
+38170,So Phisai,Bueng Kan
+38180,Phon Charoen,Bueng Kan
+38190,Pak Khat,Bueng Kan
+38210,Si Wilai,Bueng Kan
+38220,Bueng Khong Long,Bueng Kan
 40000,Muang Khonkaen,Khon Kaen
 40110,Ban Phai,Khon Kaen
 40110,Ban Had,Khon Kaen
@@ -293,7 +318,7 @@ zipcode,area,city
 44180,Na Dun,Maha Sarakham
 44190,Kae Dam,Maha Sarakham
 44210,Yang Si Surat,Maha Sarakham
-45000,Sri Somdet,Roi Et
+45260,Sri Somdet,Roi Et
 45000,Muang Roi Et,Roi Et
 45000,Chiang Khaw,Roi Et
 45000,Chang Han,Roi Et
@@ -479,6 +504,7 @@ zipcode,area,city
 58130,Pai,Mae Hong Son
 58140,Khun Yuam,Mae Hong Son
 58150,Pang Mapha,Mae Hong Son
+58130,Kanlayaniwatthana,Mae Hong Son
 60000,Muang Nakhon Sawan,Nakhon Sawan
 60110,Nong Bua,Nakhon Sawan
 60120,Chumsaeng,Nakhon Sawan
@@ -513,7 +539,7 @@ zipcode,area,city
 62180,Khlong Lan,Kamphaeng Phet
 62190,Saithong Wattana,Kamphaeng Phet
 62210,Bung Samakki,Kamphaeng Phet
-63000,Wang Chaw,Tak
+63180,Wang Chaw,Tak
 63000,Muang Tak,Tak
 63110,Mae Sot,Tak
 63120,Ban Tak,Tak
@@ -607,7 +633,7 @@ zipcode,area,city
 81000,Muang Krabi,Krabi
 81110,Ao Luk,Krabi
 81120,Khlong Thom,Krabi
-81120,Lam Thap,Krabi
+81190,Lam Thap,Krabi
 81130,Nua Khlong,Krabi
 81140,Khao Phanom,Krabi
 81150,Ko Lanta,Krabi
@@ -634,7 +660,7 @@ zipcode,area,city
 84180,Wiphawadi,Surat Thani
 84180,Khiri Ratthanikhom,Surat Thani
 84190,Wiang Sa,Surat Thani
-84210,Chai Buri,Surat Thani
+84350,Chai Buri,Surat Thani
 84210,Phrasaeng,Surat Thani
 84220,Don Sak,Surat Thani
 84230,Ban Ta Khun,Surat Thani
@@ -901,3 +927,4 @@ zipcode,area,city
 93170,Pa Bon,Phatthalung
 93180,Kong Ra,Phatthalung
 93190,Si Ban Phot,Phatthalung
+93210,Pa Phayom,Phatthalung
