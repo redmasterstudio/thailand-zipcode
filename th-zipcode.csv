@@ -43,12 +43,14 @@ zipcode,area,city
 10700,Bang Plat,Bangkok
 10700,Bangkok Noi,Bangkok
 10800,Bang Su,Bangkok
+10900,Cha tu chak,Bangkok
 10130,Phra Pradaeng,Samut Prakan
 10270,Muang Samut Prakan,Samut Prakan
 10290,Phra Samut Chedi,Samut Prakan
 10540,Bang Saotong,Samut Prakan
 10540,Bang Phli,Samut Prakan
 10560,Bang Bo,Samut Prakan
+10570,Bang Sao Thong,Samut Prakan
 11000,Muang Nonthaburi,Nonthaburi
 11110,Bang Bua Thong,Nonthaburi
 11120,Pak Kret,Nonthaburi
@@ -107,6 +109,7 @@ zipcode,area,city
 23120,Ko Chang,Trat
 23130,Khao Saming,Trat
 23140,Bo Rai,Trat
+23170,Ko Chang,Trat
 24000,Muang Chachoengsao,Chachoengsao
 24000,Khlong Kaen,Chachoengsao
 24110,Bang Khla,Chachoengsao
@@ -313,6 +316,7 @@ zipcode,area,city
 45230,Pho Chai,Roi Et
 45240,Phon Sai,Roi Et
 45250,Moeiyawadi,Roi Et
+45260,Si Somdet,Roi Et
 46000,Donchan,Kalasin
 46000,Muang Kalasin,Kalasin
 46110,Kuchinarai,Kalasin
@@ -348,6 +352,7 @@ zipcode,area,city
 47270,Nikhom Nam Un,Sakon Nakhon
 47280,Khok Si Supan,Sakon Nakhon
 47290,Charoensin,Sakon Nakhon
+47310,Phu Phan,Sakon Nakhon
 48000,Muang Nakhon Phanom,Nakhon Phanom
 48110,That Phanom,Nakhon Phanom
 48120,Tha Uthen,Nakhon Phanom
@@ -522,6 +527,7 @@ zipcode,area,city
 63150,Tha Song Yang,Tak
 63160,Phob Phra,Tak
 63170,Umphang,Tak
+63180,Wang Chao,Tak
 64000,Muang Sukhothai,Sukhothai
 64110,Sawankhalok,Sukhothai
 64120,Si Samrong,Sukhothai
@@ -612,6 +618,7 @@ zipcode,area,city
 81140,Khao Phanom,Krabi
 81150,Ko Lanta,Krabi
 81160,Plai Phraya,Krabi
+81190,Lam Thap,Krabi
 82000,Muang Phang Nga,Phang Nga
 82110,Takua Pa,Phang Nga
 82120,Thai Muang,Phang Nga
@@ -642,6 +649,8 @@ zipcode,area,city
 84250,Phanom,Surat Thani
 84260,Khian Sa,Surat Thani
 84280,Ko Phangan,Surat Thani
+84350,Chai Buri,Surat Thani
+84370,Vibhavadi,Surat Thani
 85000,Muang Ranong,Ranong
 85110,Kra Buri,Ranong
 85120,Suk Samran,Ranong
@@ -901,3 +910,29 @@ zipcode,area,city
 93170,Pa Bon,Phatthalung
 93180,Kong Ra,Phatthalung
 93190,Si Ban Phot,Phatthalung
+93210,Pa Phayom,Phatthalung
+38000,Mueang Bueng Kan,Bueng Kan
+38000,Bung Khla,Bueng Kan
+38150,Seka,Bueng Kan
+38170,So Phisai,Bueng Kan
+38180,Phon Charoen,Bueng Kan
+38190,Pak Khat,Bueng Kan
+38210,Si Wilai,Bueng Kan
+38220,Bueng Khong Long,Bueng Kan
+32000,Mueang Surin,Surin
+32000,Khwao Sinrin,Surin
+32110,Sikhoraphum,Surin
+32120,Tha Tum,Surin
+32130,Non Narai,Surin
+32130,Rattanaburi,Surin
+32140,Prasat,Surin
+32140,Phanom Dong Rak,Surin
+32150,Si Narong,Surin
+32150,Sangkha,Surin
+32160,Sanom,Surin
+32170,Samrong Thap,Surin
+32180,Chom Phra,Surin
+32190,Chumphon Buri,Surin
+32210,Kap Choeng,Surin
+32220,Lamduan,Surin
+32230,Buachet,Surin
